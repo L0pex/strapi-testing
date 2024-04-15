@@ -1,0 +1,2 @@
+# strapi-testing
+Testing Strapi
